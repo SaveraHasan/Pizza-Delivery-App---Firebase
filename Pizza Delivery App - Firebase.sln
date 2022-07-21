@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pizza Delivery App - Firebase", "Pizza Delivery App - Firebase\Pizza Delivery App - Firebase.csproj", "{F7ED9331-F4C9-422A-913E-EB4BE8875E4C}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "Setup1\Setup1.vdproj", "{B784D14C-E6A9-447D-B1BF-B781CEDCEB96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7ED9331-F4C9-422A-913E-EB4BE8875E4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7ED9331-F4C9-422A-913E-EB4BE8875E4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7ED9331-F4C9-422A-913E-EB4BE8875E4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7ED9331-F4C9-422A-913E-EB4BE8875E4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B784D14C-E6A9-447D-B1BF-B781CEDCEB96}.Debug|Any CPU.ActiveCfg = Debug
+		{B784D14C-E6A9-447D-B1BF-B781CEDCEB96}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD4BCC9B-3E98-4387-B94A-7E250B5D2510}
+	EndGlobalSection
+EndGlobal
